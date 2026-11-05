@@ -1,0 +1,6 @@
+{
+  "$schema": "https://opencode.ai/v2/cli.json",
+  "plugins": [
+    "/home/nelson/dev/active/opencode-forge/plugins/skills-git-widget"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "skills-git-widget",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "OpenCode V2 TUI sidebar widget: skills used in the session and live Git working-tree status",
+  "exports": {
+    "./tui": "./tui.tsx",
+    "./package.json": "./package.json"
+  },
+  "opencode": {
+    "type": "plugin"
+  },
+  "scripts": {
+    "test": "bun test tests"
+  }
+}
